@@ -1,5 +1,5 @@
 <h1 align="center">Hi, welcome on my profile 👋</h1>
-<h3 align="center">A full stack developer from Poland</h3>
+<h3 align="center">A junior full stack developer from Poland</h3>
 
 
 
