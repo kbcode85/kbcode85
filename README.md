@@ -1,5 +1,5 @@
 <h1 align="center">Hi, welcome on my profile 👋</h1>
-<h3 align="center">A junior full stack developer from Poland</h3>
+<!-- <h3 align="center">A junior full stack developer from Poland</h3>
 
 
 
@@ -27,4 +27,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-</p>
+</p> -->
